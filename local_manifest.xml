@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ 
+ 
+ 
+ 
+ <!-- Trees -->
+ <project path="device/oneplus/avicii" name="PixelExperience-Devices/device_oneplus_avicii.git" remote="github" revision="main" />
+ <project path="vendor/oneplus/avicii" name="KakatkarAkshay/android_vendor_oneplus_avicii.git" remote="github" revision="main" />
+ <project path="kernel/oneplus/sm7250" name="PixelExperience-Devices/kernel_oneplus_sm7250.git" remote="github" revision="main" />
+ <project path="hardware/oneplus" name="PixelExperience/hardware_oplus.git" remote="github" revision="main" />
+ <project path="device/oneplus/sm7250-common" name="PixelExperience-Devices/device_oneplus_sm7250-common.git.git" remote="GitHub" revision="main" />
+
+
+</manifest>
